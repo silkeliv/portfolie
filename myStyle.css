@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(91, 146, 229);
+  background-color: rgb(240, 248, 255);
 }
 
 /* overskrift h1 design */
@@ -8,7 +8,7 @@ font-style: italic;
 }
 
 p{
-background-color: rgb(22,200,200)
+background-color: rgb(135,206,235)
 }
 
 
@@ -16,6 +16,34 @@ background-color: rgb(22,200,200)
 .kasse{
 margin: auto;
 background-color: rgb(30,144,255);
+width: 40%;
+height: 40%;
+overflow: hidden;
+font-size: 40;
+}
+
+.kasse1{
+margin: auto;
+background-color: rgb(250,10,50);
+width: 40%;
+height: 40%;
+overflow: hidden;
+font-size: 40;
+}
+
+.kasse2{
+margin: auto;
+background-color: rgb(seashell);
+width: 40%;
+height: 40%;
+overflow: hidden;
+font-size: 40;
+}
+
+
+.kasse3{
+margin: auto;
+background-color: rgb(7,200,3);
 width: 40%;
 height: 40%;
 overflow: hidden;
